@@ -1,0 +1,42 @@
+.box-1 {
+  border: 2px solid red;
+  background-color: rgb(225, 0, 255);
+  /* opacity: 30%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 100px;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 0px;
+}
+#logo {
+  width: 100px;
+  height: 150px;
+}
+.nav-box{
+  margin: auto;
+display: inline;
+display: flex;
+text-align: center;
+flex-direction: row;
+/* border: 2px solid red; */
+width: 957px;
+justify-content: space-between;
+margin: 2px;
+padding: 37px;
+  padding-top: 37px;
+  padding-right: 37px;
+  padding-bottom: 37px;
+  padding-left: 37px;
+}
+.rad{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration-line: none;
+}
+.rad,:hover{
+  column-fill:purple;
+}

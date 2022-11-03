@@ -1,0 +1,57 @@
+.main-box{
+  
+    display: flex;
+    flex-direction: row;
+
+
+}
+.left-box{
+    border: 2px solid rgb(106, 5, 5);
+    width: 11%;
+    height: 1200px;
+    background-color: rgb(25, 0, 255);
+    border-radius: 2px;
+
+}
+.right-box{
+    /* border: 2px solid rgb(11, 5, 5); */
+    width: 89%;
+    height: 1200px;
+    background-color: rgb(228, 161, 159);
+    /* position: left; */
+    font-style: italic;
+    text-align: center;
+}
+.downward{
+    display: flex;
+    flex-direction: column;
+    box-sizing: content-box;
+    background-color: antiquewhite;
+}
+/* .card{
+    border: 2px solid rgb(106, 5, 5);
+    width: 400px;
+    height: 200px;
+    background-color: rgb(47, 0, 255);
+    border-radius: 2px;
+} */
+.card-1{
+    width: 150px;
+    height: 100px;
+    display: flex;
+    background-color:rgb(225, 29, 29);
+    position: absolute;
+    align-content: flex-start;
+    border: 20px solid rgb(49, 4, 4);
+    
+}
+.btn{
+    display: flex;
+    text-align: right;
+    background-color: rgb(255, 240, 253);
+}
+
+
+
+
+/* CSS */

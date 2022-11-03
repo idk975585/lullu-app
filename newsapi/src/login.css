@@ -1,0 +1,31 @@
+body {
+  font-family: var(--font-style);
+  background-color: #322b2b;
+}
+
+h1 {
+  color: white;
+  margin: auto;
+}
+input {
+  width: 20%;
+  margin: 9px;
+  background-color: #aae688;
+  padding: 1%;
+  border-radius: 25px;
+  border: 0;
+}
+button {
+  width: 22%;
+  padding: 1%;
+  border-radius: 43px;
+  color: rgb(10, 46, 77);
+  border: 0;
+  margin: 6px;
+  cursor: pointer;
+}
+/* .login {
+   display: flex; 
+  justify-items: center;
+  
+}  */
